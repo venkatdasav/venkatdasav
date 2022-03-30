@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @venkatdasav
-- 👀 I’m interested in making user friendly interfaces
+- 👀 I’m obsessed about the web3 possibilites
 - 🌱 I’m in love with node
  
-- 💞️ I’m looking to collaborate on anything that is productive.
+- 💞️ I’m looking to collaborate on anything that is blockchain.
 - 📫 How to reach me ? You can call me on +91 8606927000
 
 <!---
